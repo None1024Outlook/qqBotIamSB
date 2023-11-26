@@ -1,0 +1,1 @@
+C:\Users\HHRH1\miniconda3\envs\ntool\python.exe C:\Users\HHRH1\Desktop\qqBot\chatqq.py

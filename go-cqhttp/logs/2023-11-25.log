@@ -1,0 +1,137 @@
+[2023-11-25 20:31:31] [INFO]: 当前版本:v1.2.0 
+[2023-11-25 20:31:31] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2023-11-25 20:31:31] [INFO]: 检查签名服务器：https://qsign.loli.vet/  (1/2) 
+[2023-11-25 20:31:31] [INFO]: 检查签名服务器：-  (2/2) 
+[2023-11-25 20:31:34] [INFO]: 使用签名服务器 url=https://qsign.loli.vet/, key=114514, auth=- 
+[2023-11-25 20:31:34] [INFO]: 使用签名服务器：https://qsign.loli.vet/ 
+[2023-11-25 20:31:34] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2023-11-25 20:31:34] [INFO]: 每 40 分钟将刷新一次签名 token 
+[2023-11-25 20:31:34] [INFO]: 自动刷新 token 已关闭，token 过期后获取签名时将不会立即尝试刷新获取新 token 
+[2023-11-25 20:31:34] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2023-11-25 20:31:39] [INFO]: 开始尝试登录并同步消息... 
+[2023-11-25 20:31:39] [INFO]: 使用协议: Android Pad 8.9.63.11390 
+[2023-11-25 20:31:39] [INFO]: 正在检查协议更新... 
+[2023-11-25 20:31:39] [INFO]: Protocol -> connect to server: [::ffff:157.148.54.141]:8080 
+[2023-11-25 20:31:45] [INFO]: token 已更新： -> 6b6879434c67687a46387074 
+[2023-11-25 20:31:45] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-11-25 20:31:45] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-11-25 20:31:45] [WARNING]: 1. 自动提交 
+[2023-11-25 20:31:45] [WARNING]: 2. 手动抓取提交 
+[2023-11-25 20:31:45] [WARNING]: 请输入(1 - 2)： 
+[2023-11-25 20:31:47] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=C0h5ENQx&style=simple&aid=16&uin=1447306068&sid=3678714184501160242&cap_cd=UDaxQGxlWrsmVv3TDt1kV3Wc8FwjGyUiNA-r9f2d7bgzOTpe9ggEuQ**&clientype=1&apptype=2  
+[2023-11-25 20:32:03] [INFO]: token 已更新：6b6879434c67687a46387074 -> 59517a3555764d6867705073 
+[2023-11-25 20:32:03] [WARNING]: 登录失败: 你当前使用的QQ版本过低，请前往QQ官网im.qq.com下载最新版QQ后重试。 Code: 45 
+[2023-11-25 20:32:03] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2023-11-25 20:32:03] [INFO]: 按 Enter 继续.... 
+[2023-11-25 20:50:32] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-11-25 20:50:32] [WARNING]: 将在 5秒 后继续. 
+[2023-11-25 20:50:37] [INFO]: 当前版本:v1.2.0 
+[2023-11-25 20:50:37] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2023-11-25 20:50:37] [INFO]: 检查签名服务器：-  (2/2) 
+[2023-11-25 20:50:37] [INFO]: 检查签名服务器：https://qsign.loli.vet/  (1/2) 
+[2023-11-25 20:50:39] [INFO]: 使用签名服务器 url=https://qsign.loli.vet/, key=114514, auth=- 
+[2023-11-25 20:50:39] [INFO]: 使用签名服务器：https://qsign.loli.vet/ 
+[2023-11-25 20:50:39] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2023-11-25 20:50:39] [INFO]: 每 40 分钟将刷新一次签名 token 
+[2023-11-25 20:50:39] [INFO]: 自动刷新 token 已关闭，token 过期后获取签名时将不会立即尝试刷新获取新 token 
+[2023-11-25 20:50:39] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2023-11-25 20:50:44] [INFO]: 开始尝试登录并同步消息... 
+[2023-11-25 20:50:44] [INFO]: 使用协议: Android Pad 8.9.63.11390 
+[2023-11-25 20:50:44] [WARNING]: 当前协议不支持二维码登录, 请配置账号密码登录. 
+[2023-11-25 20:52:59] [INFO]: 当前版本:v1.2.0 
+[2023-11-25 20:52:59] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2023-11-25 20:52:59] [INFO]: 检查签名服务器：-  (2/2) 
+[2023-11-25 20:52:59] [INFO]: 检查签名服务器：https://qsign.loli.vet/  (1/2) 
+[2023-11-25 20:53:02] [WARNING]: 签名服务器 https://qsign.loli.vet/ 可能不可用，请求出现错误：Get "https://qsign.loli.vet/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-11-25 20:53:02] [WARNING]: no usable sign server 
+[2023-11-25 20:53:02] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-11-25 20:53:02] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2023-11-25 20:53:07] [INFO]: 开始尝试登录并同步消息... 
+[2023-11-25 20:53:07] [INFO]: 使用协议: Android Pad 8.9.63.11390 
+[2023-11-25 20:53:08] [INFO]: 正在检查协议更新... 
+[2023-11-25 20:53:08] [INFO]: Protocol -> connect to server: 182.50.15.44:8080 
+[2023-11-25 20:53:09] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-11-25 20:53:09] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-11-25 20:53:09] [WARNING]: 1. 自动提交 
+[2023-11-25 20:53:09] [WARNING]: 2. 手动抓取提交 
+[2023-11-25 20:53:09] [WARNING]: 请输入(1 - 2)： 
+[2023-11-25 20:53:28] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=ZWPwflFe&style=simple&aid=16&uin=1447306068&sid=7963246131606056502&cap_cd=tNWVFflQfdJihfAV31w_itVGz1TDA1WhAwATwdrAc6fMFMyv_wTfuw**&clientype=1&apptype=2  
+[2023-11-25 20:53:53] [WARNING]: 登录失败: 登录失败，请前往QQ官网im.qq.com下载最新版QQ后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-11-25 20:53:53] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2023-11-25 20:53:53] [INFO]: 按 Enter 继续.... 
+[2023-11-25 20:59:37] [INFO]: 当前版本:v1.2.0 
+[2023-11-25 20:59:37] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2023-11-25 20:59:38] [INFO]: 检查签名服务器：-  (2/2) 
+[2023-11-25 20:59:38] [INFO]: 检查签名服务器：https://qsign.loli.vet/v2  (1/2) 
+[2023-11-25 20:59:41] [WARNING]: 签名服务器 https://qsign.loli.vet/v2 可能不可用，请求出现错误：Get "https://qsign.loli.vet/v2": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-11-25 20:59:41] [WARNING]: no usable sign server 
+[2023-11-25 20:59:41] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-11-25 20:59:41] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2023-11-25 20:59:46] [INFO]: 开始尝试登录并同步消息... 
+[2023-11-25 20:59:46] [INFO]: 使用协议: Android Pad 8.9.63.11390 
+[2023-11-25 20:59:46] [INFO]: 正在检查协议更新... 
+[2023-11-25 20:59:54] [INFO]: 当前版本:v1.2.0 
+[2023-11-25 20:59:54] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2023-11-25 20:59:54] [INFO]: 检查签名服务器：-  (2/2) 
+[2023-11-25 20:59:54] [INFO]: 检查签名服务器：https://qsign.loli.vet/v2  (1/2) 
+[2023-11-25 20:59:57] [WARNING]: 签名服务器 https://qsign.loli.vet/v2 可能不可用，请求出现错误：Get "https://qsign.loli.vet/v2": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-11-25 20:59:57] [WARNING]: no usable sign server 
+[2023-11-25 20:59:57] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-11-25 20:59:57] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2023-11-25 21:00:12] [INFO]: 当前版本:v1.2.0 
+[2023-11-25 21:00:12] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2023-11-25 21:00:12] [INFO]: 检查签名服务器：-  (2/2) 
+[2023-11-25 21:00:12] [INFO]: 检查签名服务器：http://qsign.loli.vet/v2  (1/2) 
+[2023-11-25 21:00:15] [WARNING]: 签名服务器 http://qsign.loli.vet/v2 可能不可用，请求出现错误：Get "https://qsign.loli.vet/v2": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-11-25 21:00:15] [WARNING]: no usable sign server 
+[2023-11-25 21:00:15] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-11-25 21:00:15] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2023-11-25 21:01:35] [INFO]: 当前版本:v1.2.0 
+[2023-11-25 21:01:35] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-11-25 21:01:35] [INFO]: 已生成设备信息并保存到 device.json 文件. 
+[2023-11-25 21:01:35] [INFO]: 检查签名服务器：-  (2/2) 
+[2023-11-25 21:01:35] [INFO]: 检查签名服务器：http://qsign.loli.vet/v2  (1/2) 
+[2023-11-25 21:01:38] [INFO]: 使用签名服务器 url=http://qsign.loli.vet/v2, key=114514, auth=- 
+[2023-11-25 21:01:38] [INFO]: 使用签名服务器：http://qsign.loli.vet/v2 
+[2023-11-25 21:01:38] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2023-11-25 21:01:38] [INFO]: 每 40 分钟将刷新一次签名 token 
+[2023-11-25 21:01:38] [INFO]: 自动刷新 token 已关闭，token 过期后获取签名时将不会立即尝试刷新获取新 token 
+[2023-11-25 21:01:38] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2023-11-25 21:01:43] [INFO]: 开始尝试登录并同步消息... 
+[2023-11-25 21:01:43] [INFO]: 使用协议: Android Pad 8.9.63.11390 
+[2023-11-25 21:01:43] [INFO]: 正在检查协议更新... 
+[2023-11-25 21:01:58] [WARNING]: 检查协议更新失败: Get "https://ghproxy.com/https://raw.githubusercontent.com/RomiChan/protocol-versions/master/android_pad.json": read tcp 192.168.0.108:27794->129.151.136.35:443: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-11-25 21:01:58] [INFO]: Protocol -> connect to server: 182.50.15.44:8080 
+[2023-11-25 21:02:38] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-11-25 21:02:38] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-11-25 21:02:38] [WARNING]: 1. 自动提交 
+[2023-11-25 21:02:38] [WARNING]: 2. 手动抓取提交 
+[2023-11-25 21:02:38] [WARNING]: 请输入(1 - 2)： 
+[2023-11-25 21:02:44] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=vtNdO6oS&style=simple&aid=16&uin=1447306068&sid=5157194137130365039&cap_cd=AcX9x6DkzGTba0DjPYkoDGNyBDx56tp1SoSDxq2f2sND54AhoTf4pQ**&clientype=1&apptype=2  
+[2023-11-25 21:03:08] [INFO]: 检查签名服务器：-  (2/2) 
+[2023-11-25 21:03:08] [INFO]: 检查签名服务器：http://qsign.loli.vet/v2  (1/2) 
+[2023-11-25 21:03:10] [INFO]: 使用签名服务器 url=http://qsign.loli.vet/v2, key=114514, auth=- 
+[2023-11-25 21:03:19] [WARNING]: 登录失败: 登录失败，请前往QQ官网im.qq.com下载最新版QQ后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-11-25 21:03:19] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2023-11-25 21:03:19] [INFO]: 按 Enter 继续.... 
+[2023-11-25 21:03:40] [INFO]: 当前版本:v1.2.0 
+[2023-11-25 21:03:40] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2023-11-25 21:03:40] [INFO]: 检查签名服务器：-  (2/2) 
+[2023-11-25 21:03:40] [INFO]: 检查签名服务器：http://qsign.loli.vet/v2  (1/2) 
+[2023-11-25 21:03:43] [WARNING]: 签名服务器 http://qsign.loli.vet/v2 可能不可用，请求出现错误：Get "https://qsign.loli.vet/v2": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-11-25 21:03:43] [WARNING]: no usable sign server 
+[2023-11-25 21:03:43] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-11-25 21:03:43] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2023-11-25 21:03:48] [INFO]: 开始尝试登录并同步消息... 
+[2023-11-25 21:03:48] [INFO]: 使用协议: Android Pad 8.9.63.11390 
+[2023-11-25 21:03:49] [INFO]: 正在检查协议更新... 
+[2023-11-25 21:03:49] [INFO]: Protocol -> connect to server: 182.50.15.44:8080 
+[2023-11-25 21:03:49] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-11-25 21:03:49] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-11-25 21:03:49] [WARNING]: 1. 自动提交 
+[2023-11-25 21:03:49] [WARNING]: 2. 手动抓取提交 
+[2023-11-25 21:03:49] [WARNING]: 请输入(1 - 2)： 
+[2023-11-25 21:03:52] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=37wsTRQU&style=simple&aid=16&uin=3424233784&sid=3481436810358419639&cap_cd=2H-IgrolMclQPnrRM-BdKQ03Xa-krKySbRwCENDPG0REVSz3S6YrsA**&clientype=1&apptype=2  
+[2023-11-25 21:04:09] [WARNING]: 登录失败: 登录失败，请前往QQ官网im.qq.com下载最新版QQ后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-11-25 21:04:09] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2023-11-25 21:04:09] [INFO]: 按 Enter 继续.... 
